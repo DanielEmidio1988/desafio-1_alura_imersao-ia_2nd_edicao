@@ -1,4 +1,4 @@
-# R-Beauty
+# Desafio #01 - Alura Imersão IA 2ª Edição
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
@@ -14,7 +14,7 @@ Abaixo o prompt utilizado:
 
 ## 🔗 Link de Acesso
 <ul>
-    <li><span style="background-color: #F1F1F1; padding: 0 2px; border-radius: 4px;">Deploy Githubpages</span> - Em breve</li>
+    <li><span style="background-color: #F1F1F1; padding: 0 2px; border-radius: 4px;">Deploy Githubpages</span> - <a href="https://danielemidio1988.github.io/desafio-1_alura_imersao-ia_2nd_edicao/" target="_blank">clique aqui</a></li>
 </ul>
 
 ## 👥 Equipe
